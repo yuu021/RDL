@@ -1,0 +1,1 @@
+ALTER TABLE `char` ADD COLUMN `show_costumes` TINYINT(3) UNSIGNED NOT NULL DEFAULT '1' AFTER `disable_call`;
